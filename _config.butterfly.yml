@@ -7,6 +7,7 @@ menu:
   更多||fas fa-list:
     音乐: /music/ || fas fa-music
     游戏: /game/ || fas fa-gamepad
+  操作系统: /recover-os || fas fa-cogs
   关于: /about || fas fa-heart
   # Home: / || fas fa-home
   # Archives: /archives/ || fas fa-archive
