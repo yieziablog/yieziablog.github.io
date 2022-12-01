@@ -1,0 +1,21 @@
+
+@font-face {
+	font-family: "JetBrains Mono";
+	src: url("/files/JetBrainsMono-Regular.woff2");
+}
+
+#page-header {
+	background-color: rgba(255,255,255,0.0);
+}
+
+#footer-wrap {
+	display: none;
+}
+
+/*
+body {
+	font-family: "LXGW WenKai", sans-serif;
+	font-family: "LXGW WenKai Lite", sans-serif;
+	font-family: "LXGW WenKai TC", sans-serif;
+	font-family: "LXGW WenKai Screen", sans-serif;
+}*/
